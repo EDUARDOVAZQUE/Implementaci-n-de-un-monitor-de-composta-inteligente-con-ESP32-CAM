@@ -7,10 +7,6 @@ Se creo una app para mejorar el uso de usuario FlowControl
 
 ¡Bienvenido al proyecto de Monitoreo Inteligente para Composta! Este sistema utiliza sensores para vigilar la salud de tu composta y asegurarse de que los desechos orgánicos se conviertan en abono rico en nutrientes de la manera más eficiente posible.
 
-## Los 3 Secretos de una Composta Feliz
-
-Para que la magia de la descomposición ocurra, necesitamos mantener un equilibrio perfecto. Piensa en ello como cuidar una pequeña mascota: necesita las condiciones adecuadas para prosperar. Estos son los tres factores clave que nuestro sistema vigila:
-
 ### 💧 **1. Humedad**
 
 * **Rango ideal: 40% - 60%**
