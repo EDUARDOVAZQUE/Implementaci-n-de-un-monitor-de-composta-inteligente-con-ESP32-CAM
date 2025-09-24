@@ -33,3 +33,9 @@ Los sensores nos dan datos en bruto, como números sin un significado claro. Nue
 * **Sensor de Humedad (FC-28):** Traducimos sus lecturas a un sencillo **porcentaje de humedad**, de 0% (totalmente seco) a 100% (empapado).
 * **Sensor de Temperatura (DS18B20):** Este es fácil. Nos da la temperatura directamente en los **grados Celsius (°C)** que todos conocemos.
 * **Sensor de Gas Metano (MQ-4):** Convertimos su señal en **Partes por Millón (ppm)** para saber con precisión si a nuestra composta le falta aire.
+
+  ## Estados de funcionamiento
+* **1 minuto en cada encendido para mejorar las lecturas del MQ-4 (estabilidad)** (led encendido)
+* **2 minutos en modo lectura** (led encendido)
+* **3 minutos en modo servidor** (led apagado)
+* **5 minutos en modo reposo** (led parpadeando)
