@@ -1,6 +1,6 @@
 {
-  "short_name": "Composta",
-  "name": "Monitor de Composta Dashboard",
+  "short_name": "Composte",
+  "name": "Composte",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#f4f7f9",
